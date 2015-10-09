@@ -1,51 +1,32 @@
-<!DOCTYPE html>
 <html>
-   <head>
-     <meta charset="utf-8">
-     <title>Äppelkaka</title>
-   </head>
-   <body>
-      <header>
-        <h1>Äppelkaka</h1>
-      </header>
-         <ul>
-            <li><a href="index.html"> Första sidan--></a></li>
-            <li><a href="appelkakaRecept.html" class="selected">Äppelkaka recept--></a></li>
-         </ul>
-         
-         <img src="img/appelkaka.jpg" alt="bild på äppelkaka">
-         
-         <article class="">
-           <h2>Äppelkaka</h2>
-            <p>Äppelkaka är en vanlig efterrätt, en kaka, som innehålleräpplen som hubudingrediens.<br>
-             Vanilsås serveras ofta till äpplekaka. Äpplekaka kan göras med smuldeg eller pajdeg.</p>
-             
-            <p>I Finland bakade man på 1800-talet en knaprig äpplekaka med rågsmak av riven sötsur<br> limpa och äpplemos.</p>
-            
-            <p>Skånsk äppelkaka är en sorts smulpaj med varianter av äpplen samt äppelmos. Varianter<br>
-            med (endast) äppelmos är troligtvis inte traditionella, utan moderna (förenklade) recept.<br> 
-            På äppellagret läggs  ett lager  smulat bröd och ovanpå  detta smör och socker. Till<br> äppelkakan serveras vaniljsås eller vispgrädde.</p>
-               
-            <p>Traditionella Skånska äppelkakor bakas med smulat mörkt rågbröd till exempel kavring,<br> men den vanliga moderna
-            tappningen använder smulat ljust bröd el. ströbröd Dansk<br> äppelkaka (æblekage) är lik den skånska men bakas inte
-            och serveras kall, toppad med<br>vispad grädde ovanpå brödsmulorna.</p>
-            </article>
-            <section>
-            <h2>Intressanta Fakta!</h2>
-            <ul>
-               <li>Huvudingrediensen i äppelkaka är äpplen</li>
-               <li>Äppelkaka och äppelpaj är inte samma sak</li>
-            </ul>
-            <br>
-            <p>Den ursprungliga texten är tillgänglig hämtad från <a href =https://sv.wikipedia.org/wiki/Wiki%C3%84ppelkaka> https://sv.wikipedia.org/wiki%C3%84ppelkaka </a></p>
-            
-        
-         </section>
-  
-       <footer>
-            <p>&copy; 2015 äppelkaka.se</p>
-      </footer>
-   </body>         
+<head>
+  <meta charset="utf-8">
+<title>Äppel Kaka</title>
+</head>
+<body>
+<h1>Äppel kaka</h1>
+ <img src="img/applekaka.jpg" alt="bild på äppelkaka">
+<nav>
+  <a href="appelkakaRecept.html"><p>Klicka här för recept<a/></p>
+  </nav>
+  <section>
+<article>
+<p>Äppelkaka är en vanlig efterrätt, en kaka, som innehåller äpplen som huvudingrediens. Vaniljsås serveras ofta till äppelkaka.<br>Äppelkaka kan göras med smuldeg eller pajdeg. </br></p>
+<p>I Finland bakade man på 1800-talet en knaprig äppelkaka med rågsmak av riven sötsur limpa och äppelmos</p>
+<p>Skånsk äppelkaka (eblakaga) är en efterrätt av skånskt ursprung. Serveras traditionellt bl.a. i samband med Mårtensgåsfirandet den 11 november.</p>
+<p>Skånsk äppelkaka är en sorts smulpaj med varianter av äpplen samt äppelmos.<br>Varianter med (endast) äppelmos är troligtvis inte traditionella, utan moderna (förenklade) recept.</br> På äppellagret läggs ett lager smulat bröd och ovanpå detta smör och socker.<br>Till äppelkakan serveras vaniljsås eller vispgrädde.</br></p>
+<p>Traditionella Skånska äppelkakor bakas med smulat mörkt rågbröd till exempel kavring, <br>men den vanliga moderna tappningen använder smulat ljust bröd el. ströbröd.</br> <br> Dansk äppelkaka (æblekage) är lik den skånska men bakas inte och serveras kall, toppad med vispad grädde ovanpå brödsmulorna.</p></br>
+</article>
+</section>
+<section>
+<h2>Intressanta fakta!</h2>
+<ol>
+<li>Huvudingrediensen i äppelkaka är äpplen</li>
+<li>Äppelkaka och äppelpaj är inte samma sak</li>
+</ol>
+</section>
+<p>Den ursprungliga texten är tillgänglig hämtad från <a href="https://sv.wikipedia.org/wiki/%C3%84ppelkaka">Här</a></p>
+<footer><p>&copy; 2015 äppelkaka.se</p></footer>
+
+</body>
 </html>
-
-
