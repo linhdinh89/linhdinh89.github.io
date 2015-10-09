@@ -1,13 +1,14 @@
+
 <html>
 <head>
   <meta charset="utf-8">
-<title>ÄppelKaka</title>
+<title>Äppelpaj</title>
 </head>
 <body>
 <h1>Äppelkaka</h1>
- <img src="img/applekaka.jpg" alt="bild på äppelkaka">
+<img src="http://i.imgur.com/tW3HtPw.jpg" alt="äppelpaj"/></a>
 <nav>
-  <a href="äppelkakaRecept.html"><p>Klicka här för recept<a/></p>
+  <a href="recept.html"><p>Klicka här för recept<a/></p>
   </nav>
   <section>
 <article>
