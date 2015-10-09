@@ -10,7 +10,7 @@
       </header>
          <ul>
             <li><a href="index.html"> Första sidan--></a></li>
-            <li><a href="recept.html" class="selected">Äppelkaka recept--></a></li>
+            <li><a href="appelkakaRecept.html" class="selected">Äppelkaka recept--></a></li>
          </ul>
          
          <img src="img/applekaka.jpg" alt="bild på äppelkaka">
