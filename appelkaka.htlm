@@ -11,7 +11,7 @@
       </header>
          <ul>
             <li><a href="index.html"> Hem--></a></li>
-            <li><a href="appelkaka.html" class="selected">Äppelkaka recept--></a></li>
+            <li><a href="appelkakaRecept.html" class="selected">Äppelkaka recept--></a></li>
          </ul>
          
          <img src="img/applekaka.jpg" alt="bild på äppelkaka">
