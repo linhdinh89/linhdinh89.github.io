@@ -6,6 +6,10 @@
    </head>
    <body>
       <header>
+      <a href="index.html" id="logo">
+        <h1>Linh Huyen</h1>
+        <h2>Keep an eye on my upcoming project</h2>
+      </a>
         <h1>Äppelkaka</h1>
       </header>
          <ul>
