@@ -20,7 +20,7 @@ h2
 {
 	font-family:"Script MT Bold";
 	font-size:large;
-	color:fuchsia;
+	color:#66CC00;
 	margin:10px;
 	
 	
@@ -43,8 +43,8 @@ margin-right:0px;
 	background-image: url(https://pixabay.com/get/edb18b061185d6e3f10d/1446054936/green-214134_1920.jpg?direct);
 	width:900px;
 	height:80px;
-	border-top:1px fuchsia solid;
-	border-bottom:1px fuchsia solid;
+	border-top:1px #66CC00 solid;
+	border-bottom:1px #66CC00 solid;
 	margin-bottom:5px;
 	margin-left:auto;
 	margin-right:auto;
