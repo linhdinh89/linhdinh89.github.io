@@ -1,5 +1,7 @@
 body {	background-image: url("http://www.frukthemma.se/wp-content/uploads/2015/05/apple-opt.jpg");
         background-repeat: no-repeat;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
         padding: 2em; margin: 0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 0.7em; color:#000000}
 h1 {margin: 0 0 0.5em 0; font-size: 2em;}
 h2 {margin: 0 0 0.5em 0; font-size: 2.5em;}
