@@ -11,7 +11,7 @@ p {line-height: 1.8em; margin: 0 0 5px 0;}
 #kolumncontainer{float: left; width: 100%; position: relative;overflow: hidden;	}
 #kolumncontainerimg {position:absolute; left:0;top:0;width:100%;height:auto;opacity:0.6;}
 
-#kolumn1 {float: left; width: 60%; padding: 10px;	background: #ffffff;}
+#kolumn1 {float: left; width: 60%; padding: 10px;	background: #FFF0F5;}
 #kolumn2 {float: left; width: 30%; padding: 10px;background: #FFF0F5;}
 #sidfot {clear: both; padding: 10px; background: #a8c1c6; border-bottom: 1px solid #666666;}
 
