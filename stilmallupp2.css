@@ -11,7 +11,7 @@ p {line-height: 1.8em; margin: 0 0 5px 0;}
 #kolumncontainer{float: left; width: 100%;	}
 
 #kolumn1 {float: left; width: 60%; padding: 10px;	background: #ffffff;}
-#kolumn2 {float: left; width: 30%; padding: 10px;background-image:url("https://pixabay.com/get/9d9ea1a1e04aa5adaac7/1446138595/green-214134_1920.jpg");}
+#kolumn2 {float: left; width: 30%; padding: 10px; background-image: url("https://pixabay.com/get/9d9ea1a1e04aa5adaac7/1446138595/green-214134_1920.jpg");}
 #sidfot {clear: both; padding: 10px; background: #a8c1c6; border-bottom: 1px solid #666666;}
 
 /* meny */
