@@ -5,10 +5,10 @@ h3 {margin: 1em 0 0.5em 0; font-size: 1.5em;}
 h4 {margin: 1.5em 0 0.5em 0; font-size: 1em;}
 p {line-height: 1.8em; margin: 0 0 5px 0;}
 
-/* sidlayout */
+/* sidlayout  background: #ffcc66; */
 #layout {float: left; width: 900px;	background: #a8c1c6; border-top: 1px solid #666666;	border-right: 1px solid #666666; border-left: 1px solid #666666;}
 #sidhuvud {padding: 10px; margin: 0;}
-#kolumncontainer{float: left; width: 900px;	background: #ffcc66;background: url("https://pixabay.com/get/53ca11a1e3e2b8b48a04/1446125219/green-214134_1920.jpg?direct") repeat-y;}
+#kolumncontainer{float: left; width: 900px;	background: url("https://pixabay.com/get/53ca11a1e3e2b8b48a04/1446125219/green-214134_1920.jpg?direct") repeat-y;}
 
 #kolumn1 {float: left; width: 580px; padding: 10px;	background: #ffffff;}
 #kolumn2 {float: left; width: 280px; padding: 10px;}
