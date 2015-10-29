@@ -19,6 +19,7 @@ p {line-height: 1.8em; margin: 0 0 5px 0;}
 
 #kolumn1 {float: left; width: 60%; padding: 10px;}
 #kolumn2 {float: left; width: 35%; padding: 10px;}
+#kolumn3 {float: left; width: 100%; padding: 10px;}
 #sidfot {clear: both; padding: 10px; background: #a8c1c6; border-bottom: 1px solid #666666;}
 
 /* meny */
