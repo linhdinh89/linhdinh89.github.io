@@ -6,12 +6,12 @@ h4 {margin: 1.5em 0 0.5em 0; font-size: 1em;}
 p {line-height: 1.8em; margin: 0 0 5px 0;}
 
 /* sidlayout  background: #ffcc66; */
-#layout {float: left; width: 900px;	background: #a8c1c6; border-top: 1px solid #666666;	border-right: 1px solid #666666; border-left: 1px solid #666666;}
+#layout {float: left; width: 90%;	background: #a8c1c6; border-top: 1px solid #666666;	border-right: 1px solid #666666; border-left: 1px solid #666666;}
 #sidhuvud {padding: 0px; margin: 0;background-image:url("http://www.ica.se/imagevaultfiles/id_17875/cf_1286/677072-ppelkaka_med_citron_och_kardemumma-appelkak.jpg");}
-#kolumncontainer{float: left; width: 900px;	}
+#kolumncontainer{float: left; width: 90%;	}
 
-#kolumn1 {float: left; width: 580px; padding: 10px;	background: #ffffff;}
-#kolumn2 {float: left; width: 280px; padding: 10px;}
+#kolumn1 {float: left; width: 70%; padding: 10px;	background: #ffffff;}
+#kolumn2 {float: left; width: 70%; padding: 10px;}
 #sidfot {clear: both; padding: 10px; background: #a8c1c6; border-bottom: 1px solid #666666;}
 
 /* meny */
