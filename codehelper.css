@@ -1,5 +1,5 @@
 body {	
-        margin: 0%;
+        margin: 3%;
         width: 95%;
         text-align: center 
         background-color: #F0F0F0;
@@ -33,7 +33,7 @@ sidlayout background: ##ffcc66  background-image:url("https://pixabay.com/get/9d
         width:95%; 
         background: #a8c1c6; 
         position: fixed;
-        bottom: 20px;
+        margin-bottom:1%;
         text-align: center 
 }
 
