@@ -1,9 +1,9 @@
 body {	
-        margin-top: 0px;
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
         width: 100%;
- 
+        text-align: center 
         background-color: #F0F0F0;
         font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 0.7em; color:#800000}
 h1 {margin: 0 0 0.5em 0; font-size: 2em;}
@@ -20,8 +20,8 @@ sidlayout background: ##ffcc66  background-image:url("https://pixabay.com/get/9d
         height:100%;	
         }
 #sidhuvud {
-        padding: 0px; 
-        margin: 0;
+        padding: 5%; 
+        margin: 5%;
         background:#ffcc66;
         color:#32CD32;
         text-align: center }
@@ -35,7 +35,9 @@ sidlayout background: ##ffcc66  background-image:url("https://pixabay.com/get/9d
         width:100%; 
         background: #a8c1c6; 
         position: fixed;
-        bottom: 20px;}
+        bottom: 20px;
+        text-align: center 
+}
 
 /* meny */
 #menycontainer{border-bottom: 1px solid #666666;}
