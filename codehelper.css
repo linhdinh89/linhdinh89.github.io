@@ -33,7 +33,7 @@ sidlayout background: ##ffcc66  background-image:url("https://pixabay.com/get/9d
         width:95%; 
         background: #a8c1c6; 
         position: fixed;
-        margin-bottom:1%;
+        bottom:1%;
         text-align: center 
 }
 
