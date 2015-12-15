@@ -1,8 +1,11 @@
 body {	
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-         background-attachment: fixed;
-        padding: 2em; margin: 0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 0.7em; color:#800000}
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+ 
+        background-color: #F0F0F0;
+        font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 0.7em; color:#800000}
 h1 {margin: 0 0 0.5em 0; font-size: 2em;}
 h2 {margin: 0 0 0.5em 0; font-size: 2.5em;}
 h3 {margin: 1em 0 0.5em 0; font-size: 1.5em;}
@@ -11,19 +14,28 @@ p {line-height: 1.8em; margin: 0 0 5px 0;}
 
 /* background-image: url("https://pixabay.com/get/ea3db90f2ff11c22d9584518a33219c8b66ae3d11cb111439df1c17c-388075_1920.jpg");
 sidlayout background: ##ffcc66  background-image:url("https://pixabay.com/get/9d9ea1a1e04aa5adaac7/1446138595/green-214134_1920.jpg") */
-#layout {float: left; width:100%;height:100%;	border-top: 1px solid #666666;	border-right: 1px solid #666666; 
-        border-bottom:1px solid #666666;
-        border-left: 1px solid #666666;}
-#sidhuvud {padding: 0px; margin: 0;background:#ffcc66;color:#32CD32;text-align: center }
+#layout {
+        float: left; 
+        width:100%;
+        height:100%;	
+        }
+#sidhuvud {
+        padding: 0px; 
+        margin: 0;
+        background:#ffcc66;
+        color:#32CD32;
+        text-align: center }
 
 #kolumncontainer{float: left; width: 100%;height:100%; position: relative;overflow: hidden;	}
 #kolumncontainer img{position: absolute;left: 0;top: 0; width: 100%;height:100%;opacity: 0.6;}
 
-#kolumn1 {float: left; width: 60%;height:100%; padding: 10px;}
-#kolumn2 {float: left; width: 35%;height:100%; padding: 10px;}
-#kolumn3 {float: left; width: 100%;height:100%; padding: 10px;}
 
-#sidfot {clear: both; width:95%; background: #a8c1c6; border-bottom: 1px solid #666666;position: fixed;bottom: 20px;}
+#sidfot {
+        clear: both; 
+        width:100%; 
+        background: #a8c1c6; 
+        position: fixed;
+        bottom: 20px;}
 
 /* meny */
 #menycontainer{border-bottom: 1px solid #666666;}
