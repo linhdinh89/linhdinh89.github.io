@@ -12,9 +12,9 @@ h2 {
     color: red;
     text-align: center;
 }
-h3 {
+h4 {
     margin: 0 auto;
-    color: red;
+    color: white;
     text-align: center;
 }
 
@@ -44,7 +44,7 @@ main{
 }
 .place-box:hover .content {
     background-color: rgba(0, 0, 0, 0.7);
-    transform: translateY(82%);
+    transform: translateY(100%);
 }
 .active .content {
     transform: translateY(0) !important;
