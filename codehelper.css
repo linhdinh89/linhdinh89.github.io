@@ -1,7 +1,7 @@
 body {	
-        margin-top: 5%;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-top: 0%;
+        margin-left: 0%;
+        margin-right: 0%;
         width: 100%;
         text-align: center 
         background-color: #F0F0F0;
@@ -20,7 +20,7 @@ sidlayout background: ##ffcc66  background-image:url("https://pixabay.com/get/9d
         height:100%;	
         }
 #sidhuvud {
-        padding: 5%; 
+        padding: 0%; 
         margin: 5%;
         background:#ffcc66;
         color:#32CD32;
