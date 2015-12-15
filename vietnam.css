@@ -44,7 +44,7 @@ main{
 }
 .place-box:hover .content {
     background-color: rgba(0, 0, 0, 0.7);
-    transform: translateY(100%);
+    transform: translateY(10%);
 }
 .active .content {
     transform: translateY(0) !important;
