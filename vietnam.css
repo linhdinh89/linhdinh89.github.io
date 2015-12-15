@@ -36,8 +36,8 @@ main{
 
 .content {
     text-align: center;
-    width: 200px;
-    height: 270px;
+    width: 300px;
+    height: 370px;
     background-color: rgba(0, 0, 0, 0.5);
     transform: translateY(86%);
     transition: 0.4s;
@@ -51,7 +51,7 @@ main{
     background-color: rgba(0, 0, 0, 0.6) !important;
 }
 .logo1{
-  margin-left:20px;
+  margin-left:5%;
   background-image:url(http://i.imgur.com/LEbNkdn.jpg);
  
 }
@@ -67,7 +67,7 @@ background-image:url(http://i.imgur.com/rd3eEPD.jpg);
     background-image:url(http://i.imgur.com/w5mixdm.jpg);
 }
 .logo5{
-    margin-left:20px;
+    margin-left:5%;
     background-image:url(http://i.imgur.com/gNUHTO3.jpg);
 }
 .logo6{
